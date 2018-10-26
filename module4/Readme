@@ -2,3 +2,5 @@ This module contains Dash receipes of three different .ipynb for following quest
 1a) What proportion of trees are in good,fair or poor health according to 'health' variable?(for each Borough)
 1b) What proportion of trees are in good,fair or poor health according to 'health' variable?(for each species)
 2) Are stewards having affect on health of trees?
+
+The app creates interactive charts with give proportions in percentages for every field mentioned.
